@@ -8,7 +8,7 @@ schema: 2.0.0
 # Stop-AzureRmDataFactoryV2PipelineRun
 
 ## SYNOPSIS
-Stops a pieline run in a data factory.
+Stops a pipeline run in a data factory.
 
 ## SYNTAX
 
